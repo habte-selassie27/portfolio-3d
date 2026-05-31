@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "portfolio-3d",
+  "compatibility_date": "2026-05-31",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "portfolio-3d-main"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
